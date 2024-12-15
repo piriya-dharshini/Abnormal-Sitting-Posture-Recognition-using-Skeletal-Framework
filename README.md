@@ -4,6 +4,15 @@ Abnormal sitting posture recognition is a system which
 is designed for monitoring and triggering alerts concerning
 improper posture in real time. 
 
+Steps:
+
+# Heatmap processing
+# Keypoint Detection
+# Thresholding
+# Skeletal Dataset Generation
+# Feature extraction
+# Binary Classification
+
 ## System Design
 ![image](https://github.com/user-attachments/assets/70f68aba-0d99-4a59-ac92-4730182fc6af)
 
