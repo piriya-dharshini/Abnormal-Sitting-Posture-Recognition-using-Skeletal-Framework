@@ -6,12 +6,12 @@ improper posture in real time.
 
 Steps:
 
-# Heatmap processing
-# Keypoint Detection
-# Thresholding
-# Skeletal Dataset Generation
-# Feature extraction
-# Binary Classification
+1. Heatmap processing
+2. Keypoint Detection
+3. Thresholding
+4. Skeletal Dataset Generation
+5. Feature extraction
+6. Binary Classification
 
 ## System Design
 ![image](https://github.com/user-attachments/assets/70f68aba-0d99-4a59-ac92-4730182fc6af)
